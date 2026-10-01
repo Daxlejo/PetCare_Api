@@ -4,6 +4,7 @@ export enum EstadoCita {
   PROGRAMADA = 'PROGRAMADA',
   REALIZADA = 'REALIZADA',
   CANCELADA = 'CANCELADA',
+  REPROGRAMADA = 'REPROGRAMADA',
 }
 
 export class CreateCitaDto {
